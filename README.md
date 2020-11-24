@@ -10,5 +10,7 @@ Convex Optimization Homework, XJTU
 * Newton_descent
 
 You are welcome to improve the code.
+
 Have a good day.
+
 ALOHA.

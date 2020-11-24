@@ -6,5 +6,5 @@ Convex Optimization Homework, XJTU
 * date: 2020/11/24
 
 ## Content
-* gradient_1
-* gradient_2
+* Gradient_descent
+* Newton_descent
